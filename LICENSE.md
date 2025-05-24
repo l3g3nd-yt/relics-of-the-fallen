@@ -1,7 +1,11 @@
 📜 Relics of the Fallen – Custom License
+
 Author: Asher Dockery - L3g3nd_YT
+
 Mod Name: Relics of the Fallen
+
 License Version: 1.1
+
 Effective Date: 5/24/2025
 
 ✅ Permitted Uses
