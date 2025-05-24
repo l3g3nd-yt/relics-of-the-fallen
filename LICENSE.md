@@ -1,7 +1,7 @@
 📜 Relics of the Fallen – Custom License
 Author: Asher Dockery - L3g3nd_YT
 Mod Name: Relics of the Fallen
-License Version: 1.0
+License Version: 1.1
 Effective Date: 5/24/2025
 
 ✅ Permitted Uses
@@ -29,7 +29,7 @@ Use this mod or any of its assets for commercial purposes, including but not lim
 📌 Attribution Requirements
 When using or showcasing this mod, you must:
 
-Credit the author by name: Asher Dockery, or L3g3nd_YT.
+Credit the author by name: Asher Dockery or L3g3nd_YT.
 
 Provide a link to the official Modrinth page: [Insert Modrinth URL].
 
